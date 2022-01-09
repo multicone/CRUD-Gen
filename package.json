@@ -1,0 +1,17 @@
+{
+  "name": "crud",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "MERN crud generator",
+  "main": "./src/index.js",
+  "bin": "./src/index.js",
+  "author": "shafik-soweb",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "env": "^0.0.2",
+    "express": "^4.17.2",
+    "inquirer": "^8.2.0"
+  }
+}
